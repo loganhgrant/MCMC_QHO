@@ -1,4 +1,4 @@
-#MCMC v8 - we are back and in style!
+#MCMC v8 - placeholder code until I get around to neatening this up
 
 import numpy as np
 from numpy.polynomial import Polynomial
